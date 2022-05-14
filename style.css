@@ -1,0 +1,25 @@
+.nav {  background-color: yellow;
+    list-style-type: none;
+    text-align: center; 
+    padding: 0;
+    margin: 0;
+}
+inline-block {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+    vertical-align: top;
+  }
+  
+ div{ width: 23%; 
+    padding: 1%;
+}
+ nav{width: 73%;
+    padding: 1%;
+}
+.heroImg {
+    height: 600px;
+    padding: 25px;
+    width: 500px;
+    margin: 0 auto;
+}
